@@ -1,5 +1,5 @@
 # Religious-text-NLP
-Just some fun sentiment and semantic analyses using doc2vec
+Just some fun sentiment, semantic, and similarity analyses using doc2vec
 
 Data includes:
 1.	Number of verses per book
