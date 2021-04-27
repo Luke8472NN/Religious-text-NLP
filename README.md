@@ -58,13 +58,10 @@ References
 
 
 
-Biblical analyses
+Example analyses
 
 ![image](https://user-images.githubusercontent.com/69130562/116164827-7b770600-a6c8-11eb-972a-e2fe5ff6cc0b.png)
 ![image](https://user-images.githubusercontent.com/69130562/116164929-b711d000-a6c8-11eb-9a72-084c7bb76058.png)
-
-Quranic analyses
-
 ![image](https://user-images.githubusercontent.com/69130562/116165057-00621f80-a6c9-11eb-911e-550421a9193d.png)
 
 
